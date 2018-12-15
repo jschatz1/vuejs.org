@@ -999,6 +999,23 @@ order: 803
         'https://bencodezen.io/'
       ]
     },
+    {
+      name: 'Jacob Schatz',
+      title: '',
+      city: 'Washington, DC, USA',
+      languages: ['en'],
+      work: {
+        role: 'Staff Engineer',
+        org: 'GitLab (Meltano)',
+      },
+      github: 'jschatz1',
+      twitter: 'jakecodes',
+      links: [
+        'http://jacobschatz.com/',
+        'https://gitlab.com/',
+        'https://meltano.com/',
+      ]
+    },
   ]
 
   Vue.component('vuer-profile', {
